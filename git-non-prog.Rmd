@@ -355,7 +355,7 @@ background-size: contain
 
 .font140[
 
-1 - Let's pretend that each of you represents two individuals: one working on your computer, and an alter-ego working on a different computer. 
+1 - Let's pretend that each of you represents two individuals: one working on your computer ("You-you"), and an alter-ego working on a different computer ("Alter-you"). 
 
 2 - Only for the purpose of this tutorial, we will edit the content of a repo on GitHub.com, as-if it was done by your alter-ego in a different computer. 
 
